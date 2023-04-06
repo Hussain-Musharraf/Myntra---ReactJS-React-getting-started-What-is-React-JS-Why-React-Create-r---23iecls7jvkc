@@ -113,3 +113,28 @@ Working code for combination of filters
 Search bar functionality.
 
 Working code for cart.
+
+
+
+
+
+
+=========================================================================================
+
+
+Should render nav bar with icon,search bar, char symbol and number of item in cart.
+Should render filter option with correct type for checkbox and radio button.
+Should render sort option along with all types of sorting.
+Shoud render products in given format and enclosed in respective tags.
+Should render product modal when indiv-prodcut-holder is clicked along with all the details
+Should render cart modal when .cart-holder is clicked along with default information
+Should render all the men shirt when is site is visited
+Should render all the women shirts when is women radio button is clicked
+Should render only white shirt of selected gender when White checkbox is selected.
+Should render only folded sleeves shirt of selected gender when folded sleeves is selected.
+Should render all the correct products when checkboxes are unchecked..
+Should render product by sorting order.
+Should render products depending on the serach feild text.
+When adding product to cart the .cart-list-length should be updated
+Cart should store product and display when .cart-holder is clicked
+Should return correct prodcuts then combination of search string , gender(Male/Female) , categories(White,Folded) and sorting are applied.
